@@ -1,2 +1,2 @@
-# counter-react-redux-app-without-using-AppContextProvider
+# counter-app-using-react-redux
 Created with CodeSandbox
